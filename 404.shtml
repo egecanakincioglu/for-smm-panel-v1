@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="description" content="Hosted by Cartel">
+    <meta name="keywords" content="domainesia">
+    <title>404 Not Found</title>
+    <link rel="shortcut icon" href="https://domainesia-assets.s3.amazonaws.com/cpanel-pages/favicon.png">
+    <link rel="stylesheet" type="text/css" href="https://domainesia-assets.s3.amazonaws.com/cpanel-pages/css/404.css">
+    <script type="text/javascript" src="https://domainesia-assets.s3.amazonaws.com/cpanel-pages/js/jquery-1.10.2-min.js"></script>
+    <script type="text/javascript" src="https://domainesia-assets.s3.amazonaws.com/cpanel-pages/js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="https://domainesia-assets.s3.amazonaws.com/cpanel-pages/js/bara-custom.js"></script>
+
+    <script type="text/javascript" src="https://domainesia-assets.s3.amazonaws.com/cpanel-pages/js/jquery-animate-css-rotate-scale.js"></script>
+
+</head>
+<body>
+    <div id="wrapper" class="gradient">
+        <div class="skyelement jupiter"></div>
+        <div class="skyelement moon2"></div>
+        <div class="skyelement mount"></div>
+        <div class="ccontainer">
+            <div id="clouds">
+                <div class="skyelement cloud1"></div>
+                <div class="skyelement cloud2"></div>
+            </div>
+            <div id="clouds2">
+                <div class="skyelement cloud3"></div>
+                <div class="skyelement cloud4"></div>
+                <div class="skyelement cloud5"></div>
+            </div>
+            <div id="clouds3">
+                <div class="skyelement cloud1"></div>
+                <div class="skyelement cloud2"></div>
+                <div class="skyelement cloud3"></div>
+                <div class="skyelement cloud4"></div>
+                <div class="skyelement cloud5"></div>
+            </div>
+		</div>
+        <div class="skyelement crash"></div>
+        <div class="skyelement ground"></div>
+        <div class="skyelement mushroom"></div>
+        <div class="skyelement mushroom2"></div>
+        <div class="skyelement content">
+        	<div class="inner">
+                <div class="chain1"></div>
+                <div class="chain2"></div>
+                <h1>404 - Bulunamadı</h1>
+                <div class="errorMessage">
+                    <p>Ulaşılamaz hedef.</p>
+                </div>
+                <div class="errorNav">
+                <div class="menu">
+                    <a href="https://www.cartelizm.com/" title="hosting berkualitas">Cartel Tarafından Gururla Ev Sahipliği Yapılmaktadır</a>
+                </div>
+                </div>
+			</div>
+        </div>
+    </div>
+
+
+  <div id="footer"></div>
+</body>
+</html>
