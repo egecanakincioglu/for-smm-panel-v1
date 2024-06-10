@@ -19,6 +19,7 @@ SMM Panel V1 employs the following technologies and languages:
 - PHP
 - HTML
 - CSS
+- SASS
 - JavaScript
 - Bootstrap
 - JQuery
